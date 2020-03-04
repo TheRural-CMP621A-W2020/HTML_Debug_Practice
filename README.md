@@ -5,4 +5,6 @@ You have the code and files to create the following webpage.  Unfortunately, the
 
 Note:  The html file must remain in the Web Page folder and both the image and video files must remain in the Media folder.  All tags must have an open and closed tag with the exception of the <img> tag.
 
+See the GOALWEBPAGE.png file for a picture of the goal.
+
 
